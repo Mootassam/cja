@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 17</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="icons" transform="translate(-338.000000, -667.000000)" stroke-width="2">
+            <g id="Group-17" transform="translate(339.000000, 668.000000)">
+                <path d="M35,19 C35,27.8365714 27.8365714,35 19,35 C10.1634286,35 3,27.8365714 3,19 C3,10.1634286 10.1634286,3 19,3 C27.8365714,3 35,10.1634286 35,19 Z" id="Stroke-1" stroke="#A5DDEF"></path>
+                <path d="M29,19 C29,24.5228571 24.5228571,29 19,29 C13.4771429,29 9,24.5228571 9,19 C9,13.4771429 13.4771429,9 19,9 C24.5228571,9 29,13.4771429 29,19 Z" id="Stroke-1" stroke="#A5DDEF"></path>
+                <path d="M23,19 C23,21.209 21.209,23 19,23 C16.791,23 15,21.209 15,19 C15,16.791 16.791,15 19,15 C21.209,15 23,16.791 23,19 Z" id="Stroke-37" stroke="#A5DDEF" fill="#A5DDEF"></path>
+                <line x1="24.375" y1="13" x2="37.375" y2="0" id="Stroke-1" stroke="#025450" stroke-linecap="round"></line>
+                <line x1="0" y1="37.375" x2="13" y2="24.375" id="Stroke-3" stroke="#025450" stroke-linecap="round"></line>
+                <polyline id="Stroke-5" stroke="#025450" stroke-linecap="round" points="8.125 37.375 0 37.375 0 29.25"></polyline>
+                <polyline id="Stroke-7" stroke="#025450" stroke-linecap="round" points="37.375 8.125 37.375 0 29.25 0"></polyline>
+                <line x1="24.375" y1="24.375" x2="37.375" y2="37.375" id="Stroke-9" stroke="#025450" stroke-linecap="round"></line>
+                <line x1="0" y1="0" x2="13" y2="13" id="Stroke-11" stroke="#025450" stroke-linecap="round"></line>
+                <polyline id="Stroke-13" stroke="#025450" stroke-linecap="round" points="0 8.125 0 0 8.125 0"></polyline>
+                <polyline id="Stroke-15" stroke="#025450" stroke-linecap="round" points="29.25 37.375 37.375 37.375 37.375 29.25"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

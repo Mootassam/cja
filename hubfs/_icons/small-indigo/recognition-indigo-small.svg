@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 9</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="icons-copy" transform="translate(-696.000000, -558.000000)" stroke-width="2">
+            <g id="Group-9" transform="translate(697.000000, 559.000000)">
+                <polyline id="Stroke-1" stroke="#025450" points="5.64413043 20.6460435 3.7844124e-14 30.4064783 5.85869565 29.4158261 7.89173913 35.0006087 12.8876087 26.6066957"></polyline>
+                <polyline id="Stroke-3" stroke="#025450" points="29.1746304 20.7813261 34.7533261 30.4063261 28.8946304 29.4156739 26.861587 35.0004565 21.8748478 26.6537174"></polyline>
+                <path d="M31.1956522,13.6956522 C31.1956522,21.2602174 25.0645652,27.3913043 17.5,27.3913043 C9.93543478,27.3913043 3.80434783,21.2602174 3.80434783,13.6956522 C3.80434783,6.13108696 9.93543478,0 17.5,0 C25.0645652,0 31.1956522,6.13108696 31.1956522,13.6956522 Z" id="Stroke-5" stroke="#025450"></path>
+                <path d="M21,9.5 C21,11.4334 19.4334,13 17.5,13 C15.5666,13 14,11.4334 14,9.5 C14,7.5666 15.5666,6 17.5,6 C19.4334,6 21,7.5666 21,9.5 Z" id="Stroke-4" stroke="#5575C4"></path>
+                <path d="M17.5,13 C15.1065556,13 11,14.5876 11,20 L24,20 C24,14.5876 19.892,13 17.5,13 Z" id="Stroke-6" stroke="#5575C4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

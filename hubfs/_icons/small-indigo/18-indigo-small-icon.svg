@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 29</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icons-copy" transform="translate(-340.000000, -557.000000)" stroke-width="2">
+            <g id="Group-29" transform="translate(341.000000, 558.000000)">
+                <path d="M22,14 C22,16.2096 20.2096,18 18,18 C15.7888,18 14,16.2096 14,14 C14,11.792 15.7888,10 18,10 C20.2096,10 22,11.792 22,14 Z" id="Stroke-1" stroke="#5575C4"></path>
+                <path d="M24,24 L12,24 C12,20.6865 14.685,18 18,18 C21.315,18 24,20.6865 24,24 Z" id="Stroke-3" stroke="#5575C4"></path>
+                <line x1="25" y1="10" x2="30" y2="5" id="Stroke-5" stroke="#025450"></line>
+                <path d="M35,3 C35,4.656 33.656,6 32,6 C30.344,6 29,4.656 29,3 C29,1.344 30.344,0 32,0 C33.656,0 35,1.344 35,3 Z" id="Stroke-7" stroke="#025450"></path>
+                <line x1="27" y1="27" x2="30" y2="30" id="Stroke-9" stroke="#025450"></line>
+                <path d="M32,35 C30.344,35 29,33.656 29,32 C29,30.344 30.344,29 32,29 C33.656,29 35,30.344 35,32 C35,33.656 33.656,35 32,35 Z" id="Stroke-11" stroke="#025450"></path>
+                <line x1="10" y1="10" x2="5" y2="5" id="Stroke-13" stroke="#025450"></line>
+                <path d="M0,3 C0,4.656 1.344,6 3,6 C4.656,6 6,4.656 6,3 C6,1.344 4.656,0 3,0 C1.344,0 0,1.344 0,3 Z" id="Stroke-15" stroke="#025450"></path>
+                <line x1="8" y1="27" x2="5" y2="30" id="Stroke-17" stroke="#025450"></line>
+                <path d="M3,35 C4.656,35 6,33.656 6,32 C6,30.344 4.656,29 3,29 C1.344,29 0,30.344 0,32 C0,33.656 1.344,35 3,35 Z" id="Stroke-19" stroke="#025450"></path>
+                <line x1="24" y1="17" x2="29" y2="17" id="Stroke-21" stroke="#025450"></line>
+                <path d="M35,17 C35,18.656 33.656,20 32,20 C30.344,20 29,18.656 29,17 C29,15.344 30.344,14 32,14 C33.656,14 35,15.344 35,17 Z" id="Stroke-23" stroke="#025450"></path>
+                <line x1="11" y1="17" x2="6" y2="17" id="Stroke-25" stroke="#025450"></line>
+                <path d="M0,17 C0,18.656 1.344,20 3,20 C4.656,20 6,18.656 6,17 C6,15.344 4.656,14 3,14 C1.344,14 0,15.344 0,17 Z" id="Stroke-27" stroke="#025450"></path>
+            </g>
+        </g>
+    </g>
+</svg>

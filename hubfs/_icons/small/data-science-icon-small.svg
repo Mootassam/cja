@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="41px" viewBox="0 0 40 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icons" transform="translate(-783.000000, -223.000000)" stroke-width="2">
+            <g id="Group" transform="translate(784.000000, 224.000000)">
+                <polygon id="Stroke-942" stroke="#A5DDEF" fill="#A5DDEF" points="7.2 29.6 2.4 29.6 2.4 37.6 7.2 37.6"></polygon>
+                <polygon id="Stroke-943" stroke="#A5DDEF" fill="#A5DDEF" points="16.8 21.6 12 21.6 12 37.6 16.8 37.6"></polygon>
+                <polygon id="Stroke-944" stroke="#A5DDEF" fill="#A5DDEF" points="26.4 24.8 21.6 24.8 21.6 37.6 26.4 37.6"></polygon>
+                <polygon id="Stroke-945" stroke="#A5DDEF" fill="#A5DDEF" points="36 13.6 31.2 13.6 31.2 37.6 36 37.6"></polygon>
+                <line x1="0.8" y1="37.6" x2="37.6" y2="37.6" id="Stroke-941" stroke="#025450"></line>
+                <path d="M6.2,19.1 C6.2,20.2592 5.2613,21.2 4.1,21.2 C2.9408,21.2 2,20.2592 2,19.1 C2,17.9387 2.9408,17 4.1,17 C5.2613,17 6.2,17.9387 6.2,19.1 L6.2,19.1 Z" id="Stroke-946" stroke="#025450"></path>
+                <path d="M16.2,10.1 C16.2,11.2592 15.2613,12.2 14.1,12.2 C12.9408,12.2 12,11.2592 12,10.1 C12,8.9387 12.9408,8 14.1,8 C15.2613,8 16.2,8.9387 16.2,10.1 L16.2,10.1 Z" id="Stroke-946-Copy" stroke="#025450"></path>
+                <path d="M26.2,13.1 C26.2,14.2592 25.2613,15.2 24.1,15.2 C22.9408,15.2 22,14.2592 22,13.1 C22,11.9387 22.9408,11 24.1,11 C25.2613,11 26.2,11.9387 26.2,13.1 L26.2,13.1 Z" id="Stroke-946-Copy-2" stroke="#025450"></path>
+                <path d="M37.2,2.1 C37.2,3.2592 36.2613,4.2 35.1,4.2 C33.9408,4.2 33,3.2592 33,2.1 C33,0.9387 33.9408,0 35.1,0 C36.2613,0 37.2,0.9387 37.2,2.1 L37.2,2.1 Z" id="Stroke-946-Copy-3" stroke="#025450"></path>
+                <line x1="6.02976" y1="17.37664" x2="12.4404297" y2="11.5842285" id="Stroke-950" stroke="#025450"></line>
+                <line x1="16" y1="11" x2="22" y2="13" id="Stroke-951" stroke="#025450"></line>
+                <line x1="33" y1="4" x2="26" y2="11" id="Stroke-952" stroke="#025450"></line>
+            </g>
+        </g>
+    </g>
+</svg>

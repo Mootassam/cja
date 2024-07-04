@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 23</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-605.000000, -223.000000)">
+            <g id="Group-23" transform="translate(606.000000, 224.000000)">
+                <g id="Group-7" stroke="#025450" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                    <path d="M22.1548477,8.376264 C22.1548477,13.0039701 18.4039701,16.752528 13.7785837,16.752528 C9.14855791,16.752528 5.4,13.0039701 5.4,8.376264 C5.4,3.75087757 9.14855791,0 13.7785837,0 C18.4039701,0 22.1548477,3.75087757 22.1548477,8.376264 L22.1548477,8.376264 Z" id="Stroke-1792"></path>
+                    <path d="M17.0371094,30.6829503 L0,30.6829503 C0,23.2809402 5.99630087,17.28 13.4029503,17.28 C16.4762443,17.28 19.3076097,18.3144945 21.5681415,20.0542462" id="Stroke-1796"></path>
+                </g>
+                <circle id="Oval-5" fill="#A5DDEF" fill-rule="nonzero" cx="30" cy="30" r="9"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="40px" viewBox="0 0 42 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-339.000000, -334.000000)">
+            <g id="Group" transform="translate(340.000000, 335.000000)">
+                <circle id="Oval-6" fill="#A5DDEF" fill-rule="nonzero" cx="20.5" cy="21.5" r="9.5"></circle>
+                <polyline id="Stroke-3985" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="29.5238095 6.66666667 29.5238095 15.7790476 20 21.9047619 10.4761905 15.7790476 10.4761905 6.66666667"></polyline>
+                <polygon id="Stroke-3986" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="29.5238095 6.66666667 20 12.3809524 10.4761905 6.66666667 20 0.952380952"></polygon>
+                <line x1="20" y1="12.3809524" x2="20" y2="21.9047619" id="Stroke-3987" stroke="#025450" stroke-width="2" fill="#49C5B1" stroke-linecap="round" stroke-linejoin="round"></line>
+                <polyline id="Stroke-3988" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="39.047619 21.9047619 39.047619 31.0171429 29.5238095 37.1428571 20 31.0171429 20 21.9047619"></polyline>
+                <polygon id="Stroke-3989" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="39.047619 21.9047619 29.5238095 27.6190476 20 21.9047619 29.5238095 15.7790476"></polygon>
+                <line x1="29.5238095" y1="27.6190476" x2="29.5238095" y2="37.1428571" id="Stroke-3990" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <polyline id="Stroke-3991" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="20 21.9047619 20 31.0171429 10.4761905 37.1428571 0.952380952 31.0171429 0.952380952 21.9047619"></polyline>
+                <polygon id="Stroke-3992" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="20 21.9047619 10.4761905 27.6190476 0.952380952 21.9047619 10.4761905 15.7790476"></polygon>
+                <line x1="10.4761905" y1="27.6190476" x2="10.4761905" y2="37.1428571" id="Stroke-3993" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

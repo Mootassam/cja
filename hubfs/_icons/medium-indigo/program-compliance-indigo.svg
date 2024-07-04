@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>program-compliance-medium</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icons-copy" transform="translate(-491.000000, -1075.000000)" stroke-width="2">
+            <g id="program-compliance-medium" transform="translate(492.000000, 1076.000000)">
+                <polygon id="Path" stroke="#025450" points="73 63 0 63 7.94015807 44 65.0735792 44"></polygon>
+                <path d="M44.4235126,0 L61.8333067,0 C62.674276,-0.00361045626 63.4818601,0.326649177 64.0765209,0.917387034 C64.6711816,1.50812489 65.0036344,2.31038139 65,3.14580295 L65,44 L8,44 L8,3.14580295 C7.99636557,2.31038139 8.32881836,1.50812489 8.92347913,0.917387034 C9.51813991,0.326649177 10.325724,-0.00361045626 11.1666933,0 L19.0764974,0" id="Path" stroke="#025450"></path>
+                <path d="M0,64 L73,64 L73,70.4025974 C73,71.8371032 71.7699205,73 70.2525405,73 L2.74745954,73 C1.23007954,73 0,71.8371032 0,70.4025974 L0,64 Z" id="Path" stroke="#025450"></path>
+                <line x1="35" y1="50.5" x2="38" y2="50.5" id="Path" stroke="#025450"></line>
+                <line x1="32" y1="56.5" x2="35" y2="56.5" id="Path" stroke="#025450"></line>
+                <line x1="41" y1="50.5" x2="44" y2="50.5" id="Path" stroke="#025450"></line>
+                <line x1="38" y1="56.5" x2="41" y2="56.5" id="Path" stroke="#025450"></line>
+                <line x1="48" y1="50.5" x2="51" y2="50.5" id="Path" stroke="#025450"></line>
+                <line x1="44" y1="56.5" x2="47" y2="56.5" id="Path" stroke="#025450"></line>
+                <line x1="54" y1="50.5" x2="59" y2="50.5" id="Path" stroke="#025450"></line>
+                <line x1="51" y1="56.5" x2="54" y2="56.5" id="Path" stroke="#025450"></line>
+                <line x1="57" y1="56.5" x2="62" y2="56.5" id="Path" stroke="#025450"></line>
+                <line x1="29" y1="50.5" x2="32" y2="50.5" id="Path" stroke="#025450"></line>
+                <line x1="25" y1="56.5" x2="28" y2="56.5" id="Path" stroke="#025450"></line>
+                <line x1="22" y1="50.5" x2="25" y2="50.5" id="Path" stroke="#025450"></line>
+                <line x1="19" y1="56.5" x2="22" y2="56.5" id="Path" stroke="#025450"></line>
+                <line x1="14" y1="50.5" x2="19" y2="50.5" id="Path" stroke="#025450"></line>
+                <line x1="11" y1="56.5" x2="16" y2="56.5" id="Path" stroke="#025450"></line>
+                <circle id="Oval" stroke="#5575C4" cx="31.5" cy="14.5" r="14.5"></circle>
+                <path d="M32,6 C36.418278,6 40,9.581722 40,14" id="Path" stroke="#5575C4"></path>
+                <polyline id="Path" stroke="#5575C4" points="38 27.1793863 48.815748 38 55 31.8206137 44.184252 21"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

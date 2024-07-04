@@ -1,0 +1,12 @@
+.pd-checkbox span.value {
+    margin-top: 0;
+    flex-direction: column;
+    display: flex;
+}
+
+#sizetracker {
+  width: 100% !important;
+}
+
+#confirmform {
+  display: none;

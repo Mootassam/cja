@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-516.000000, -333.000000)">
+            <g id="Group" transform="translate(517.000000, 334.000000)">
+                <path d="M37.2083333,34.0416667 C37.2083333,35.7896667 35.79125,37.2083333 34.0416667,37.2083333 L3.95833333,37.2083333 C2.21033333,37.2083333 0.791666667,35.7896667 0.791666667,34.0416667 L0.791666667,3.95833333 C0.791666667,2.21033333 2.21033333,0.791666667 3.95833333,0.791666667 L34.0416667,0.791666667 C35.79125,0.791666667 37.2083333,2.21033333 37.2083333,3.95833333 L37.2083333,34.0416667 L37.2083333,34.0416667 Z" id="Stroke-611" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="0.791666667" y1="8.70833333" x2="37.2083333" y2="8.70833333" id="Stroke-612" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M7.54166667,4.95833333 C7.54166667,5.51033333 7.09366667,5.95833333 6.54166667,5.95833333 C5.98966667,5.95833333 5.54166667,5.51033333 5.54166667,4.95833333 C5.54166667,4.40633333 5.98966667,3.95833333 6.54166667,3.95833333 C7.09366667,3.95833333 7.54166667,4.40633333 7.54166667,4.95833333 L7.54166667,4.95833333 Z" id="Stroke-613" fill="#025450"></path>
+                <path d="M12.2916667,4.95833333 C12.2916667,5.51033333 11.8436667,5.95833333 11.2916667,5.95833333 C10.7396667,5.95833333 10.2916667,5.51033333 10.2916667,4.95833333 C10.2916667,4.40633333 10.7396667,3.95833333 11.2916667,3.95833333 C11.8436667,3.95833333 12.2916667,4.40633333 12.2916667,4.95833333 L12.2916667,4.95833333 Z" id="Stroke-614" fill="#025450"></path>
+                <path d="M17.0416667,4.95833333 C17.0416667,5.51033333 16.5936667,5.95833333 16.0416667,5.95833333 C15.4896667,5.95833333 15.0416667,5.51033333 15.0416667,4.95833333 C15.0416667,4.40633333 15.4896667,3.95833333 16.0416667,3.95833333 C16.5936667,3.95833333 17.0416667,4.40633333 17.0416667,4.95833333 L17.0416667,4.95833333 Z" id="Stroke-615" fill="#025450"></path>
+                <line x1="15.0416667" y1="8.70833333" x2="15.0416667" y2="37.2083333" id="Stroke-616" stroke="#025450" stroke-width="2" stroke-linejoin="round"></line>
+                <line x1="5.59106667" y1="13.4583333" x2="10.3157333" y2="13.4583333" id="Stroke-617" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="5.59106667" y1="16.625" x2="10.3157333" y2="16.625" id="Stroke-618" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="5.59106667" y1="19.7916667" x2="10.3157333" y2="19.7916667" id="Stroke-619" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="5.59106667" y1="22.9583333" x2="10.3157333" y2="22.9583333" id="Stroke-620" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="5.59106667" y1="26.125" x2="10.3157333" y2="26.125" id="Stroke-621" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="5.59106667" y1="29.2916667" x2="10.3157333" y2="29.2916667" id="Stroke-622" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="5.59106667" y1="32.4583333" x2="10.3157333" y2="32.4583333" id="Stroke-623" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <polygon id="Stroke-624" stroke="#A5DDEF" stroke-width="2" fill="#A5DDEF" stroke-linecap="round" stroke-linejoin="round" points="32.4583333 32.4583333 19.7916667 32.4583333 19.7916667 13.4583333 32.4583333 13.4583333"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

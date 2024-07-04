@@ -1,0 +1,1 @@
+ol{counter-reset:my-awesome-counter;list-style:none}ol li{counter-increment:my-awesome-counter}ol li:before{content:"0" counter(my-awesome-counter) ". ";display:inline-block;font-family:Gibson-SemiBold,Open Sans,sans-serif;font-size:1rem;letter-spacing:1.2px;margin-left:-50px;text-transform:uppercase;width:50px}

@@ -1,0 +1,90 @@
+.client-logos_overflow {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 40px;
+}
+.client-logos_wrapper {
+  -webkit-animation: logoloop 90s linear infinite;
+  -moz-animation: logoloop 90s linear infinite;
+  -o-animation: logoloop 90s linear infinite;
+}
+.client-logos_wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+}
+.client-logos_wrapper span {
+  /*filter: invert(52%) sepia(6%) saturate(132%) hue-rotate(349deg) brightness(98%) contrast(91%);  */
+  width: 125px;
+  display: block;
+  margin-right: 32px;
+  margin-left: 32px;
+  text-align: center;
+}
+.client-logos_wrapper span svg {
+  max-height: 50px;
+}
+.client-logos_overflow:hover .client-logos_wrapper, .client-logos_overflow:focus-within .client-logos_wrapper {
+  -webkit-animation-play-state: paused;
+  -moz-animation-play-state: paused;
+  -o-animation-play-state: paused;
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion) {
+.client-logos_wrapper {
+  -webkit-animation-play-state: paused;
+  -moz-animation-play-state: paused;
+  -o-animation-play-state: paused;
+  animation-play-state: paused;
+}
+}
+@-webkit-keyframes logoloop {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+@-moz-keyframes logoloop {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+@-o-keyframes logoloop {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+@keyframes logoloop {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}

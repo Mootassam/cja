@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="336px" height="334px" viewBox="0 0 336 334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 17 Copy</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="336" height="334"></rect>
+    </defs>
+    <g id="CJ-Influence-Page_Modules" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-17-Copy">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="Group-19" mask="url(#mask-2)" fill="#D3E8E3">
+                <path d="M503,333.5 C503,426.007658 428.007785,501 335.500283,501 C242.992215,501 168,426.007658 168,333.5 C168,240.992342 242.992215,166 335.500283,166 C428.007785,166 503,240.992342 503,333.5" id="Fill-1"></path>
+                <path d="M335.499717,0 C242.992215,0 168,75.2161993 168,168 L503,168 C503,75.2161993 428.00722,0 335.499717,0" id="Fill-3"></path>
+                <path d="M0,333.500283 C0,426.007785 75.2161993,501 168,501 L168,166 C75.2161993,166 0,240.99278 0,333.500283" id="Fill-9"></path>
+                <path d="M168,168 L0,168 L0,168 C0,75.2156326 75.2161993,0 168,0 L168,168 Z" id="Fill-17"></path>
+            </g>
+        </g>
+    </g>
+</svg>

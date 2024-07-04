@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="37px" viewBox="0 0 42 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-693.000000, -113.000000)">
+            <g id="Group" transform="translate(694.000000, 114.000000)">
+                <path d="M36.6666667,29.8791628 L3.33333333,29.8791628 C1.95333333,29.8791628 0.833333333,28.6941628 0.833333333,27.2324961 L0.833333333,3.49194336 C0.833333333,2.03027669 1.95333333,0.845276693 3.33333333,0.845276693 L36.6666667,0.845276693 C38.0483333,0.845276693 39.1666667,2.03027669 39.1666667,3.49194336 L39.1666667,27.2324961 C39.1666667,28.6941628 38.0483333,29.8791628 36.6666667,29.8791628 Z" id="Stroke-21" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <rect id="Rectangle-path" stroke="#A5DDEF" stroke-width="2" fill="#A5DDEF" stroke-linecap="round" stroke-linejoin="round" x="5" y="5" width="12" height="14"></rect>
+                <line x1="21.5" y1="6" x2="35" y2="6" id="Line-Copy" stroke="#025450" stroke-width="2" stroke-linecap="round" fill-rule="nonzero"></line>
+                <line x1="21.5" y1="10" x2="35" y2="10" id="Line-Copy-2" stroke="#025450" stroke-width="2" stroke-linecap="round" fill-rule="nonzero"></line>
+                <line x1="21.5" y1="14" x2="35" y2="14" id="Line-Copy-3" stroke="#025450" stroke-width="2" stroke-linecap="round" fill-rule="nonzero"></line>
+                <line x1="21.5" y1="18" x2="35" y2="18" id="Line-Copy-4" stroke="#025450" stroke-width="2" stroke-linecap="round" fill-rule="nonzero"></line>
+                <line x1="8.33333333" y1="34.2123294" x2="31.6666667" y2="34.2123294" id="Stroke-22" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="20" y1="29.8789961" x2="20" y2="33.2123294" id="Stroke-23" stroke="#025450" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M20.8333333,26.5456628 C20.8333333,27.0056628 20.46,27.3789961 20,27.3789961 C19.54,27.3789961 19.1666667,27.0056628 19.1666667,26.5456628 C19.1666667,26.0856628 19.54,25.7123294 20,25.7123294 C20.46,25.7123294 20.8333333,26.0856628 20.8333333,26.5456628 L20.8333333,26.5456628 Z" id="Stroke-24" fill="#025450"></path>
+                <line x1="0.833333333" y1="23.2123294" x2="39.1666667" y2="23.2123294" id="Stroke-25" stroke="#025450" stroke-width="2" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

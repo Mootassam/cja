@@ -1,0 +1,6 @@
+.card.col {flex-basis: inherit;}
+
+@media (min-width: 576px) {
+.card.col, .card-group>.card {
+{flex-basis: 0;}
+}

@@ -1,0 +1,39 @@
+#cju-logos img {
+    max-width: 80%;
+    object-fit: contain;
+    max-height: -webkit-fill-available;
+}
+/*#advertiser-logos div:nth-child(3n+0) > img, #publisher-logos div:nth-child(3n+0) > img {float: right;}*/
+#cju-logos div:nth-child(3n+2) > img {display:block; margin:0px auto;}
+a.active{color: #49C5B1;}
+
+#cju-logos a.nav-item{text-decoration:none;color:#aaabad;}
+#cju-logos a.nav-item.active{color: #49C5B1;}
+
+
+.logobox {height:140px; width:140px}
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+.logobox {height:150px; width:150px}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+}
+
+/*Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+/*#cju-logos img {max-width: 110px;}*/
+
+/* XXL */
+@media (min-width: 1700px) {
+.logobox {height:220px; width:220px}
+ /* #cju-logos img {max-width: 140px;}*/
+}

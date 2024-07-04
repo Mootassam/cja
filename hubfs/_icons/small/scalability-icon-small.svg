@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icons" transform="translate(-427.000000, -223.000000)" stroke-width="2">
+            <g id="Group" transform="translate(428.000000, 224.000000)">
+                <polygon id="Stroke-1609" stroke="#A5DDEF" fill="#A5DDEF" points="16.8 21.6 0.8 21.6 0.8 37.6 16.8 37.6"></polygon>
+                <g transform="translate(6.000000, 0.000000)" id="Group-5" stroke="#025450">
+                    <polyline id="Stroke-6078" points="2.42857143 0.80952381 0.80952381 0.80952381 0.80952381 2.42857143"></polyline>
+                    <polyline id="Stroke-6079" points="29.952381 0.80952381 31.5714286 0.80952381 31.5714286 2.42857143"></polyline>
+                    <line x1="0.80952381" y1="5.66666667" x2="0.80952381" y2="7.28571429" id="Stroke-6080"></line>
+                    <line x1="7.28571429" y1="0.80952381" x2="5.66666667" y2="0.80952381" id="Stroke-6081"></line>
+                    <line x1="7.28571429" y1="31.5714286" x2="5.66666667" y2="31.5714286" id="Stroke-6082"></line>
+                    <line x1="12.1428571" y1="0.80952381" x2="10.5238095" y2="0.80952381" id="Stroke-6083"></line>
+                    <line x1="17" y1="0.80952381" x2="15.3809524" y2="0.80952381" id="Stroke-6084"></line>
+                    <line x1="21.8571429" y1="0.80952381" x2="20.2380952" y2="0.80952381" id="Stroke-6085"></line>
+                    <line x1="26.7142857" y1="0.80952381" x2="25.0952381" y2="0.80952381" id="Stroke-6086"></line>
+                    <line x1="12.1428571" y1="31.5714286" x2="10.5238095" y2="31.5714286" id="Stroke-6087"></line>
+                    <line x1="17" y1="31.5714286" x2="15.3809524" y2="31.5714286" id="Stroke-6088"></line>
+                    <line x1="21.8571429" y1="31.5714286" x2="20.2380952" y2="31.5714286" id="Stroke-6089"></line>
+                    <line x1="26.7142857" y1="31.5714286" x2="25.0952381" y2="31.5714286" id="Stroke-6090"></line>
+                    <polyline id="Stroke-6091" points="29.952381 31.5714286 31.5714286 31.5714286 31.5714286 29.952381"></polyline>
+                    <line x1="31.5714286" y1="26.7142857" x2="31.5714286" y2="25.0952381" id="Stroke-6092"></line>
+                    <polyline id="Stroke-6093" points="2.42857143 31.5714286 0.80952381 31.5714286 0.80952381 29.952381"></polyline>
+                    <line x1="0.80952381" y1="26.7142857" x2="0.80952381" y2="25.0952381" id="Stroke-6094"></line>
+                    <line x1="31.5714286" y1="21.8571429" x2="31.5714286" y2="20.2380952" id="Stroke-6095"></line>
+                    <line x1="31.5714286" y1="17" x2="31.5714286" y2="15.3809524" id="Stroke-6096"></line>
+                    <line x1="31.5714286" y1="12.1428571" x2="31.5714286" y2="10.5238095" id="Stroke-6097"></line>
+                    <line x1="0.80952381" y1="21.8571429" x2="0.80952381" y2="20.2380952" id="Stroke-6098"></line>
+                    <line x1="0.80952381" y1="17" x2="0.80952381" y2="15.3809524" id="Stroke-6099"></line>
+                    <line x1="0.80952381" y1="12.1428571" x2="0.80952381" y2="10.5238095" id="Stroke-6100"></line>
+                    <line x1="31.5714286" y1="7.28571429" x2="31.5714286" y2="5.66666667" id="Stroke-6101"></line>
+                </g>
+                <line x1="20.6959467" y1="17.7040533" x2="31.8" y2="6.6" id="Stroke-1610" stroke="#025450"></line>
+                <polyline id="Stroke-1611" stroke="#025450" points="23.8 6.6 31.8 6.6 31.8 14.6"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
