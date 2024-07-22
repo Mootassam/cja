@@ -4268,16 +4268,19 @@ body{
 
 
   <script>
-var video = document.getElementById('testvideo')
-
-mobilevideo.setAttribute("loop", "");
-    </script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const video = document.getElementById('testvideo');
+        video.autoplay = true;
+        video.loop = true;
+        video.play();
+    });
+</script>
 
 
   <script>
     var hsVars = hsVars || {};
     hsVars['language'] = 'en';
-  </script
+  </script>
 
   <script src="hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
   <script
