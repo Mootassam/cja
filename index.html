@@ -356,7 +356,7 @@
             <a class="" href="contact-us.html" gtm-nav="top" gtm-link-text="Contact Us">Contact Us</a>
           </li>
           <li class="list-inline-item">
-            <a class="text-teal" href="http://172.104.153.191:3015/" target="_blank"
+            <a class="text-teal" href="https://cjaffiliate.online/auth/signin" target="_blank"
               style="cursor: pointer !important; font-weight: bolder !important" gtm-nav="top" gtm-link-text="Login">
               Login
             </a>
@@ -462,7 +462,7 @@
         <div class="collapse navbar-collapse" id="cjnav">
           <ul class="navbar-nav mx-auto align-items-lg-center hs-skip-lang-url-rewrite px-0">
             <li class="nav-item d-flex d-lg-none justify-content-between">
-              <a class="nav-link" href="http://172.104.153.191:3015" style="color: #acbebd"
+              <a class="nav-link" href=https://cjaffiliate.online/auth/signin style="color: #acbebd"
                 gtm-link-text="Login">Login</a>
               <div class="nav-link">
                 <a class="btn btn-white" role="button" href="join.html" gtm-nav="bottom" gtm-link-text="Get Started">
@@ -3744,7 +3744,7 @@ body{
           </div>
 
           <footer class="card-footer1 border-0 bg-transparent p-0 d-flex justify-content-start">
-            <a href="http://172.104.153.191:3015/auth/signup" cta-name="Sign Up (Publisher)"
+            <a href="https://cjaffiliate.online/auth/signup" cta-name="Sign Up (Publisher)"
               class="hs-skip-lang-url-rewrite btn btn-teal mr-3 cta-analytics">Sign Up</a>
             <a href="publisher.html" cta-name="Learn More (Publisher)"
               class="hs-skip-lang-url-rewrite btn cta_button btn btn-outline-dark cta-analytics">Learn More</a>
@@ -4200,7 +4200,7 @@ body{
           </div>
           <div
             class="d-flex justify-content-center justify-content-md-end flex-wrap font-body-sm hs-skip-lang-url-rewrite">
-            <a href="http://172.104.153.191:3015" target="_blank" style="cursor:pointer!important;" gtm-nav="cj-footer"
+            <a href=https://cjaffiliate.online/auth/signin target="_blank" style="cursor:pointer!important;" gtm-nav="cj-footer"
               gtm-link-text="Login">Login</a>
 
 
@@ -4266,13 +4266,19 @@ body{
 
   </div>
 
-
   <script>
     document.addEventListener('DOMContentLoaded', function() {
         const video = document.getElementById('testvideo');
         video.autoplay = true;
-        video.loop = true;
+        video.muted = true;
         video.play();
+
+        // Handle the loop manually
+        video.addEventListener('ended', function() {
+          console.log("ended");
+            video.currentTime = 0;
+            video.play();
+        });
     });
 </script>
 
@@ -4296,68 +4302,6 @@ body{
   <script>
     const players5050 = Plyr.setup('.js-player-5050');
   </script>
-
-
-
-  <!-- Start of HubSpot Analytics Code -->
-  <!-- <script type="text/javascript">
-    var _hsq = _hsq || [];
-    _hsq.push(["setContentType", "standard-page"]);
-    _hsq.push(["setCanonicalUrl", "https:\/\/www.cj.com"]);
-    _hsq.push(["setPageId", "17618030739"]);
-    _hsq.push(["setContentMetadata", {
-      "contentPageId": 17618030739,
-      "legacyPageId": "17618030739",
-      "contentFolderId": null,
-      "contentGroupId": null,
-      "abTestId": 43367593129,
-      "languageVariantId": 17618030739,
-      "languageCode": "en",
-
-
-    }]);
-  </script> -->
-
-  <script>
-    // Your JavaScript code here
-  </script>
-
-
-
-  <!--script>
-  const callback = (tcData, success) => {
-    console.log(tcData)
-    if (!tcData.publisher || tcData.publisher.consents[1]) {
-      console.log("Website has consent")
-      acceptCookies()
-    } else {
-      console.log("Website does NOT have consent")
-      denyCookies()
-    }
-  }
-
-  __tcfapi("addEventListener", 2, callback)
-
-  function acceptCookies() {
-    //fire GTM tag: GA and Pardot
-    if (typeof dataLayer != "undefined") {
-      console.log("set GTM tags")
-      dataLayer.push({ event: "Google Analytics" })
-      dataLayer.push({ event: "Pardot" })
-    }
-
-    //set Hubspot Cookies
-    var acceptButtonHubSpot = document.querySelector("#hs-eu-confirmation-button")
-    if (acceptButtonHubSpot) {
-      acceptButtonHubSpot.click()
-      console.log("Hubspot Cookie set")
-    }
-  }
-
-  function denyCookies() {
-    _hsq.push(["revokeCookieConsent"])
-  }
-</script-->
 
 
 
